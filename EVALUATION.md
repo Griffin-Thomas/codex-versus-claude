@@ -1,6 +1,6 @@
 # Evaluation
 
-Fun fact: This evaluation was performed by `gpt-5-codex` itself.
+Fun fact: These evaluations were performed by `gpt-5-codex` itself.
 
 ## `gpt-5-codex`
 ```
