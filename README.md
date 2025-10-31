@@ -17,14 +17,6 @@ Please check out the following repositories to see what each model produced in t
 
 ---
 
-## How to Run the Head-to-Head (Quick)
-
-1. **Give both agents the exact same prompt** (the “Scenario Prompt” below as a `README.md` in their own repositories) and nothing else.  
-2. **Collect outputs** from both agents in their repositories.
-3. **Score** with the rubric below. If there’s a tie, use the tie-breakers. For me, I used a separate AI agent to perform the evaluation.
-
----
-
 ## Scenario Prompt
 
 **Title:** Microsoft Fabric – Late Shipment Risk Scoring (batch)  
@@ -142,8 +134,6 @@ Northwind,0.81,3
 ## One-Page Scoresheet
 
 ```
-Agent: [A | B]
-
 Fabric fit (15):  __ / 15
 Architecture (15):  __ / 15
 Data engineering (15):  __ / 15
